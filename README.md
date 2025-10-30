@@ -1,3 +1,9 @@
+
+Data - https://drive.google.com/drive/folders/17nFUppHhJclWNYFfslX7CbCjgBpu72yB?usp=sharing
+Power BI Dashboard - https://drive.google.com/file/d/1Cw2q7EXJl9DCyJvzTZJqEbmbEirBKY1n/view?usp=sharing
+
+
+
 # Vendor Sales Performance Analysis
 
 This project automates the process of extracting, transforming, and analyzing vendor sales data using **Python**, **PostgreSQL**, and **Power BI**.  
